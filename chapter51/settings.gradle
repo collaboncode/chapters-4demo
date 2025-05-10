@@ -1,0 +1,14 @@
+pluginManagement {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+    plugins {
+        id 'com.codingchapters.ccpgp' version '0.0.3'
+    }
+}
+
+plugins {
+    id 'com.codingchapters.ccpgp'
+}
