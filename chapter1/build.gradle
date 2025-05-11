@@ -20,10 +20,6 @@ sourceSets {
     }
 }
 
-//dependencies{
-//    implementation('com.codogenics:jfm-parent:1.1-SNAPSHOT')
-//}
-
 java {
     toolchain {
         languageVersion = JavaLanguageVersion.of(17)
