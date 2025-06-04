@@ -1,9 +1,0 @@
-*src*
-gradlew
-gradlew.bat
-gradle/
-target/
-**/gradle-wrapper.jar
-build/
-.idea/
-.gradle/
