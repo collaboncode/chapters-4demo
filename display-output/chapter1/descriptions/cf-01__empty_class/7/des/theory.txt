@@ -1,0 +1,16 @@
+<lid>1690040527310</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+We have seen few very basic examples of java programs containing classes.         
+         
+These classes are from our daily life for easy understanding.         
+
+
+<internal/>

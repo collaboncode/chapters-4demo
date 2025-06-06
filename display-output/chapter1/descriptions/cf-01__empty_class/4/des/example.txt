@@ -1,0 +1,26 @@
+<lid>1672485599942</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+Here's an example of creating a class named <ci>Aeroplane</ci>.            
+
+
+<explanation/>
+
+
+The program contains a class named <ci>Aeroplane</ci>.            
+
+
+<exampleResult/>
+
+
+<ci>Aeroplane</ci> class has been created            
+
+
+<internal/>

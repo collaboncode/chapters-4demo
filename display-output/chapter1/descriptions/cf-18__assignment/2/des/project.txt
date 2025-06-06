@@ -1,0 +1,38 @@
+<lid>1687091435531</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Part 1/9         
+                     
+Learning till now....         
+                     
+This program consists of a total of 9 parts. We will complete each task one by one, and in the end, you will have a brief summary generated as output, summarizing the completed tasks.         
+
+
+<explanation/>
+
+
+In this program, the main method is utilized to display text on the console using the print statement.         
+
+
+<exerciseResult/>
+
+
+Output:         
+Till now, we have written java programs doing following:         
+
+
+<steps/>
+
+
+1.  Write a <smi>main</smi> method inside the <ci>Student</ci> class.      
+1.  Print the text <dq>Till now, we have written java programs doing following: </dq> followed by printing a new line.         
+
+
+<internal/>

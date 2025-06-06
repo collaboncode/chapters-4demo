@@ -1,0 +1,20 @@
+<lid>1686923693212</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Syntax of <smi>main</smi> method                        
+         
+```         
+public static void main(String[] args) {         
+         
+}         
+```         
+
+
+<internal/>

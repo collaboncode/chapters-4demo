@@ -1,0 +1,48 @@
+<lid>1672485596811</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 10/16                     
+                     
+Let's do some more practice by printing a number three times.            
+            
+            
+            
+            
+            
+            
+.            
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used thrice to print the integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+99                                 
+99                                 
+99                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <num>99</num> three times using separate print statements.                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 3 non empty lines, not 5      

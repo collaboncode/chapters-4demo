@@ -1,0 +1,27 @@
+<lid>1672485596966</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+Here is an example of printing the same phrase in two different lines to the console.            
+
+
+<explanation/>
+
+
+In this program, we used the separate print statements to print the same text on two different lines.                        
+
+
+<exampleResult/>
+
+
+Learning java is fun                                 
+Learning java is fun                        
+
+
+<internal/>

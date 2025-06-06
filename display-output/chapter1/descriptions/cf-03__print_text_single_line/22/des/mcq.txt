@@ -1,0 +1,39 @@
+<lid>1686796694992</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+Which statement will print Hello?                     
+
+
+<options/>
+
+
+* System.out.println("hello");                     
+* System.out.println("HELLO");                     
+* System.out.println("Hello");                     
+* System.out.println(Hello);                     
+
+
+<answer/>
+
+0010                     
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

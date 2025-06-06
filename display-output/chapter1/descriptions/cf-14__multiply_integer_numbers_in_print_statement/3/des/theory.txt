@@ -1,0 +1,16 @@
+<lid>1690092812981</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Yes, we can multiply whole numbers using multiply operator.         
+         
+Let's practice the same in upcoming programs.         
+
+
+<internal/>

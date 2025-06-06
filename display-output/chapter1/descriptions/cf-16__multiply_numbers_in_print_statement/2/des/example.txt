@@ -1,0 +1,28 @@
+<lid>1689152952020</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of multiplication between integer and floating-point numbers.            
+
+
+<explanation/>
+
+
+In this program, the multiplication operation between integer and decimal numbers, showcasing that the result of such operations is always a floating-point number.            
+
+
+<exampleResult/>
+
+
+Output:            
+6.8            
+35.5            
+
+
+<internal/>

@@ -1,0 +1,37 @@
+<lid>1672485599198</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Write an integer number within print statement and see the result immediately.                     
+
+
+<explanation/>
+
+
+In this program, the print statement is used within the main method to print an integer number.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+7                        
+
+
+<steps/>
+
+
+1.  Add a semicolon at the end of the print statement.      
+1. Write an integer number <num>7</num> within the print statement.            
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 1 non empty lines, not 5      

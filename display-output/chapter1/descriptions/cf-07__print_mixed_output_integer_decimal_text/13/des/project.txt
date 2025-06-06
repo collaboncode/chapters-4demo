@@ -1,0 +1,40 @@
+<lid>1672485593487</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 8/10                     
+                     
+Display the combination of text, integer, and decimal numbers on separate lines.         
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text, integer, and decimal numbers.         
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Your positive action combined with positive thinking results in success         
+123.45                                 
+99                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <dq>Your positive action combined with positive thinking results in success</dq>.         
+1.	Print <num>123.45</num>                                 
+1.	Print <num>99</num>                        
+
+
+<internal/>

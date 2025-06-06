@@ -1,0 +1,18 @@
+<lid>1686907231383</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Here, we will see that how to create a class in java program?         
+         
+What is the syntax for creating a class?                        
+                        
+Just some additional information, in java, class is a keyword, which means it has some predefined meaning.                     
+
+
+<internal/>

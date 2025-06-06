@@ -1,0 +1,41 @@
+<lid>1672485602102</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 6/16                     
+                     
+Display 21 and 41 individually, each on its own line.                     
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used twice to print two different integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+21                                 
+41                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <num>21</num>                                 
+1.	Print <num>41</num>                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 2 non empty lines, not 5      

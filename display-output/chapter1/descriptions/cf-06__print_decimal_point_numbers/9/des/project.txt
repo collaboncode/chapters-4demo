@@ -1,0 +1,36 @@
+<lid>1672485597735</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/3                     
+                     
+Four numbers after the decimal point are also easy for you to print.                        
+
+
+<explanation/>
+
+
+In this program, the decimal number is printed using the print statement.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+0.3256                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.                     
+1.	Print <num>0.3256</num>                        
+
+
+<internal/>

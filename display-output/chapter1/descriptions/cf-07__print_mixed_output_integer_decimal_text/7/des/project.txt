@@ -1,0 +1,40 @@
+<lid>1672485592655</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/10                     
+                     
+John, please tell me your birth year, keeping in mind that there are certain rules to follow.                        
+1.  Print the birth year along with text.                        
+1.  The text and the number should be on separate lines.                        
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text and decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+2010                                 
+is the year I was born in.                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.                     
+1.	Print <num>2010</num>                                 
+1.	Print <dq>is the year I was born in.</dq>                        
+
+
+<internal/>

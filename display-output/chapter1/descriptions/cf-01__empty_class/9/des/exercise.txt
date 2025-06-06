@@ -1,0 +1,32 @@
+<lid>1688127747707</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Declare a class named <ci>Television</ci>.            
+
+
+<explanation/>
+
+
+The program contains a class named <ci>Television</ci>.            
+
+
+<exerciseResult/>
+
+
+<ci>Television</ci> class has been created            
+
+
+<steps/>
+
+
+1. Create a <kw>class</kw> named <ci>Television</ci>.                  
+
+
+<internal/>

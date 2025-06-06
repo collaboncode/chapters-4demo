@@ -1,0 +1,38 @@
+<lid>1672485597168</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 7/14                     
+                     
+Print a few Modulo Arithmetic Algorithms names in main method present in java file.                        
+
+
+<explanation/>
+
+
+In this program, we have used the separate print statements to print the text on different lines.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Euler's Totient Function                                 
+Modular Multiplicative Inverse                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.	Print <dq>Euler's Totient Function</dq>                        
+1.	Print <dq>Modular Multiplicative Inverse</dq>                        
+
+
+<internal/>

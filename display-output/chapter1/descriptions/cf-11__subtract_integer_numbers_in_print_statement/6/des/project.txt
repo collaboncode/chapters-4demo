@@ -1,0 +1,36 @@
+<lid>1672485599874</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/3                     
+                     
+Display the result of subtraction.                        
+
+
+<explanation/>
+
+
+In this program, we have utilized the - operator to perform subtraction with integer numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+-5               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.                     
+1.	Subtract <num>20</num> - <num>8</num> - <num>2</num> - <num>15</num> in a print statement.               
+
+
+<internal/>

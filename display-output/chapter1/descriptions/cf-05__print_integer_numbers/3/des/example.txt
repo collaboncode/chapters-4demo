@@ -1,0 +1,27 @@
+<lid>1672485594897</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+Here is an example of printing an integer number within the <smi>main</smi> method.            
+
+
+<explanation/>
+
+
+In this program, the print statement is used within the main method to print an integer number.            
+
+
+<exampleResult/>
+
+
+**Output:**                           
+10                        
+
+
+<internal/>

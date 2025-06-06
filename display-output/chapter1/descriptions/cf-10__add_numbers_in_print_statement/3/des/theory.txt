@@ -1,0 +1,16 @@
+<lid>1690092457876</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+We just saw that, yes, we can add whole numbers and floating point numbers.         
+         
+Let's practice the same in upcoming java programs.         
+
+
+<internal/>

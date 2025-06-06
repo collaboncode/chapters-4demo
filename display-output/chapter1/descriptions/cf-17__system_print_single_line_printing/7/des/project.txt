@@ -1,0 +1,35 @@
+<lid>1690024635441</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/10         
+         
+Display the printed integers with spaces in between.         
+
+
+<explanation/>
+
+
+In this program, we have used the print statements to print the integer values to the console, along with space between them.         
+
+
+<exerciseResult/>
+
+
+Output:         
+10 20 30         
+
+
+<steps/>
+
+
+1.  Add spaces between the integer numbers using separate print statements.         
+
+
+<internal/>

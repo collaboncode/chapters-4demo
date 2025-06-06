@@ -1,0 +1,36 @@
+<lid>1690024653524</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/10         
+         
+Display <dq>Hello</dq> to the console.         
+
+
+<explanation/>
+
+
+In this program, we have used the print statement to print the string to the console.         
+
+
+<exerciseResult/>
+
+
+Output:         
+Hello         
+
+
+<steps/>
+
+
+1.	Eliminate predefined print statements.         
+1.  Print <dq>Hello</dq> without printing a new line.         
+
+
+<internal/>

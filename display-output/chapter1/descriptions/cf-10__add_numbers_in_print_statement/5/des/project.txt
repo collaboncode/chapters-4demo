@@ -1,0 +1,36 @@
+<lid>1689150169909</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/4            
+            
+Add an integer and a decimal number together.            
+
+
+<explanation/>
+
+
+In this program, in the main method, the print statement is used to output the result of the addition to the console.            
+
+
+<exerciseResult/>
+
+
+Output:            
+10.2            
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.            
+1.  Add <num>3</num> and <num>7.2</num> within a print statement.            
+
+
+<internal/>

@@ -1,0 +1,40 @@
+<lid>1672485602404</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/3                     
+                     
+Render both integer and decimal numbers on the console.                     
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the integer and decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+99.1245                                 
+123                                 
+0.85                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <num>99.1245</num>                                 
+1.	Print <num>123</num>                                 
+1.	Print <num>0.85</num>                        
+
+
+<internal/>

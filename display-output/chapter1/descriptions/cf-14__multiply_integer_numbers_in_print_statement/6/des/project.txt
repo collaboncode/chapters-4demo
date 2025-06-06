@@ -1,0 +1,36 @@
+<lid>1672485599890</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/3                     
+                     
+Perform multiplication operation between four integer numbers.               
+
+
+<explanation/>
+
+
+In this program, we have utilized the * operator to perform multiplication with integer numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+-400               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.                     
+1.	Multiply <num>5</num>, <num>10</num>, <num>2</num>, and -<num>4</num>, in a print statement.               
+
+
+<internal/>

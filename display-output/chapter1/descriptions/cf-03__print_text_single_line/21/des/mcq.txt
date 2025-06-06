@@ -1,0 +1,39 @@
+<lid>1686792067827</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+Which statement is incorrect?                     
+
+
+<options/>
+
+
+* System.out.println("Hello");                     
+* System.out.println("");                     
+* System.out.println();                     
+* System.out.println(Hello);                     
+
+
+<answer/>
+
+0001                     
+
+<explanation/>
+
+
+In print statement, we can not pass text without double quotes.                     
+
+
+<hint/>
+
+
+
+
+
+<internal/>

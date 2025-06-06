@@ -1,0 +1,18 @@
+<lid>1686925162418</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Guys, can we print both types of numbers together?         
+         
+I mean both whole numbers and floating point numbers?         
+                        
+Let's try !!                        
+
+
+<internal/>

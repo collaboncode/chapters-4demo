@@ -1,0 +1,32 @@
+<lid>1688828964712</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Write a main method for the <ci>Ship</ci> class.               
+
+
+<explanation/>
+
+
+In this program, the class has a main method.            
+
+
+<exerciseResult/>
+
+
+Output will show nothing            
+
+
+<steps/>
+
+
+1.  Write the <smi>main</smi> method inside the class.               
+
+
+<internal/>

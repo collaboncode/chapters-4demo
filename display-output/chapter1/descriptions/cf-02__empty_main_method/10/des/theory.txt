@@ -1,0 +1,16 @@
+<lid>1690041336334</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+In upcoming few programs, we would be facing compile time errors due to either syntax errors or incomplete nature of programs.         
+         
+Let's fix them guys !!         
+
+
+<internal/>

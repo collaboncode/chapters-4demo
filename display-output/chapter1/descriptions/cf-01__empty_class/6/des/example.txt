@@ -1,0 +1,26 @@
+<lid>1672485596795</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+In this Java file, you will find an example on creating a class named <ci>Chair</ci>.            
+
+
+<explanation/>
+
+
+The program contains a class named <ci>Chair</ci>.            
+
+
+<exampleResult/>
+
+
+<ci>Chair</ci> class has been created            
+
+
+<internal/>

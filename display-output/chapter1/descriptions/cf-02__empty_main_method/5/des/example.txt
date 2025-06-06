@@ -1,0 +1,28 @@
+<lid>1672485598709</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+Step into the world of Java coding with an example showcasing an empty <smi>main</smi> method within the <ci>Shop</ci> class.                     
+                     
+Execute the source code. At present, nothing will be displayed as main is empty.                        
+
+
+<explanation/>
+
+
+In this program, the class has a main method.            
+
+
+<exampleResult/>
+
+
+Output will show nothing            
+
+
+<internal/>

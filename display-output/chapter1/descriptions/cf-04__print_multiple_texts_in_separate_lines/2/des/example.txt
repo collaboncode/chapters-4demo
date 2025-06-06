@@ -1,0 +1,27 @@
+<lid>1672485598197</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+Here, we will learn how to print the same text on two different lines.            
+
+
+<explanation/>
+
+
+In this program, we used the separate print statements to print the same text on two different lines.                        
+
+
+<exampleResult/>
+
+
+I am loving coding                                 
+I am loving coding                        
+
+
+<internal/>

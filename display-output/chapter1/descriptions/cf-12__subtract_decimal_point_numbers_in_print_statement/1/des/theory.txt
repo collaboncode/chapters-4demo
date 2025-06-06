@@ -1,0 +1,14 @@
+<lid>1687090770384</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Similar to addition operation, we can write programs where floating point numbers are subtracted in print statements.                        
+
+
+<internal/>

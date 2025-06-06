@@ -1,0 +1,37 @@
+<lid>1672485600792</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 4/6                     
+            
+            
+Print this great idea!            
+
+
+<explanation/>
+
+
+In this program, inside the main method, the print statement is used to print the text to the console.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+When things go wrong, don't go with them                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statement.                     
+1.	Write <dq>When things go wrong, don't go with them</dq> within the print statement.            
+
+
+<internal/>

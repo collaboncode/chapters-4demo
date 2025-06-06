@@ -1,0 +1,38 @@
+<lid>1672485600244</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/7                     
+                     
+Display decimal numbers on separate lines.            
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+0.1                                 
+0.25                        
+
+
+<steps/>
+
+
+1.  Add a semicolon at the end of the print statements.      
+1.	Print <num>0.1</num>                                 
+1.	Print <num>0.25</num>                        
+
+
+<internal/>

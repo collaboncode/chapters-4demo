@@ -1,0 +1,42 @@
+<lid>1672485593826</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 9/14                     
+                     
+Is it possible to print the same text on different lines in Java?                     
+Yes, let's do it!                        
+
+
+<explanation/>
+
+
+In this program, we used separate println statements to print the text on different lines.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Programming is cool                                 
+Programming is cool                                 
+Programming is cool                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.	Print <dq>Programming is cool</dq> three times using separate print statements.                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 3 lines, not 2      

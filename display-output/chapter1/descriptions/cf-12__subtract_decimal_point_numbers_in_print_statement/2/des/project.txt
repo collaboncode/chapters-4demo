@@ -1,0 +1,35 @@
+<lid>1672485594532</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/4               
+               
+Subtract two decimal numbers within a print statement.                     
+
+
+<explanation/>
+
+
+In this program, we have utilized the - operator to perform subtraction with decimal numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+2.0                        
+
+
+<steps/>
+
+
+1.	Subtract <num>3.0</num> from <num>5.0</num> in a print statement.                        
+
+
+<internal/>

@@ -1,0 +1,35 @@
+<lid>1672485594409</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/3                     
+                     
+Multiply two integer numbers in a print statement.                        
+
+
+<explanation/>
+
+
+In this program, we have utilized the * operator to perform multiplication with integer numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+10                        
+
+
+<steps/>
+
+
+1.	Multiply <num>5</num> and <num>2</num> within a print statement.      
+
+
+<internal/>

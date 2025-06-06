@@ -1,0 +1,32 @@
+<lid>1688746680740</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Validate the accuracy of the <dq>string</dq>.               
+
+
+<explanation/>
+
+
+In this program, there is a class named <ci>Planet</ci> that includes the main method.               
+
+
+<exerciseResult/>
+
+
+It will not produce any output            
+
+
+<steps/>
+
+
+1.  Use a capital 'S' in 'string'.      
+
+
+<internal/>

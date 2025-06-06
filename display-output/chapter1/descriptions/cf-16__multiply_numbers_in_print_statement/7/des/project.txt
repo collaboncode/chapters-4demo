@@ -1,0 +1,36 @@
+<lid>1689153095627</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 4/4            
+            
+Multiply an integer by decimal numbers to obtain the product.            
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement prints the result of the multiplication to the console as output.            
+
+
+<exerciseResult/>
+
+
+Output:            
+29.040000000000006            
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.            
+1.  Perform multiplication operation within a print statement using the numbers <num>2.2</num>, <num>3</num>, and <num>4.4</num>            
+
+
+<internal/>

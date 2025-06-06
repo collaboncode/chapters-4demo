@@ -1,0 +1,26 @@
+<lid>1672485595689</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of how to create a class in a java file.         
+
+
+<explanation/>
+
+
+In Java, when writing a program, we typically start by creating a class using the <kw>class</kw> keyword. The choice of class name is up to us.            
+
+
+<exampleResult/>
+
+
+<ci>Car</ci> class has been created            
+
+
+<internal/>

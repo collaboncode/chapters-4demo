@@ -1,0 +1,35 @@
+<lid>1690024675019</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 4/10         
+         
+Print <num>10</num> along with Hello.         
+
+
+<explanation/>
+
+
+In this program, we have used the print statements to print the string and integer value to the console.         
+
+
+<exerciseResult/>
+
+
+Output:         
+Hello10         
+
+
+<steps/>
+
+
+1.  Print <num>10</num> without printing a new line.         
+
+
+<internal/>

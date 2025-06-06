@@ -1,0 +1,27 @@
+<lid>1672485596392</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+In the following example, we demonstrate the addition of two decimal numbers within a print statement.                     
+
+
+<explanation/>
+
+
+In this program, we have utilized the + operator to perform addition with decimal numbers within a print statement.                     
+
+
+<exampleResult/>
+
+
+**Output:**                           
+3.0                        
+
+
+<internal/>

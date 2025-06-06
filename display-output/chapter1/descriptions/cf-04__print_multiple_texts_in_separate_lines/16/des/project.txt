@@ -1,0 +1,40 @@
+<lid>1672485601443</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 12/14                     
+                     
+John, please tell me something about you in three different lines.                        
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text on different lines.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+My name is John.                                 
+And, I want to learn Java.                                 
+And, I want to learn Java.                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.	Print <dq>My name is John.</dq>                        
+1.	Print <dq>And, I want to learn Java.</dq>                        
+1.	Print <dq>And, I want to learn Java.</dq>                        
+
+
+<internal/>

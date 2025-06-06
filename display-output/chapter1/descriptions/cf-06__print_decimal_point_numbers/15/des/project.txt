@@ -1,0 +1,42 @@
+<lid>1672485601194</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 5/7                     
+                     
+Print the sequence of decimal numbers on separate lines.                        
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+1.1                                 
+2.2                                 
+3.3                                 
+4.4                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <num>1.1</num>                                 
+1.	Print <num>2.2</num>                                 
+1.	Print <num>3.3</num>                                 
+1.	Print <num>4.4</num>                        
+
+
+<internal/>

@@ -1,0 +1,32 @@
+<lid>1689148649158</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+The main method is lacking the required brace.            
+
+
+<explanation/>
+
+
+In this program, there is a class that includes the main method.            
+
+
+<exerciseResult/>
+
+
+It will not produce any output            
+
+
+<steps/>
+
+
+1.  Add a closing brace to close the main method.            
+
+
+<internal/>

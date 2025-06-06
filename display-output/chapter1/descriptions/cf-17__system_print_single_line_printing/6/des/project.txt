@@ -1,0 +1,36 @@
+<lid>1690024580662</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/10         
+         
+         
+Display the integers <num>10</num>, <num>20</num>, and <num>30</num> in a single line without any space between them.         
+
+
+<explanation/>
+
+
+In this program, we have used the print statements to print the integer values to the console.         
+
+
+<exerciseResult/>
+
+
+Output:         
+102030         
+
+
+<steps/>
+
+
+1.  Print <num>10</num>, <num>20</num>, and <num>30</num> without any new lines between them using separate print statements.         
+
+
+<internal/>

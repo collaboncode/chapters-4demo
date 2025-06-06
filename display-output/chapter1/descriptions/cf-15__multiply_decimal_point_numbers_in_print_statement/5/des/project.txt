@@ -1,0 +1,36 @@
+<lid>1672485593355</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 4/4               
+                  
+If we take the PI value and multiply it by other decimal values.               
+
+
+<explanation/>
+
+
+In this program, we have utilized the * operator to perform multiplication with decimal numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+83.60257535999999               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.            
+1.	Multiply <num>3.14</num>, <num>2.568</num>, <num>1.2</num>, <num>2.4</num>, and <num>3.6</num> in a print statement.               
+
+
+<internal/>

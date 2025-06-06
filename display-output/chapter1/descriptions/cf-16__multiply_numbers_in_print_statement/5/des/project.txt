@@ -1,0 +1,36 @@
+<lid>1689153052164</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/4            
+            
+Calculate the product of an integer and a decimal number.            
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement prints the result of the multiplication to the console as output.            
+
+
+<exerciseResult/>
+
+
+Output:            
+8.100000000000001            
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.            
+1.  Perform multiplication operation within a print statement using the numbers <num>2.7</num> and <num>3</num>            
+
+
+<internal/>

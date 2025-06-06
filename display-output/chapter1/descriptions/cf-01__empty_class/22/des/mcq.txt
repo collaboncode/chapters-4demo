@@ -1,0 +1,37 @@
+<lid>1686906271864</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+Is word "Class" used to declare a class in java?                  
+
+
+<options/>
+
+
+* Yes                  
+* No                  
+
+
+<answer/>
+
+01                  
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

@@ -1,0 +1,36 @@
+<lid>1672485595316</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 4/4               
+                     
+The value obtained by subtracting decimal numbers.               
+
+
+<explanation/>
+
+
+In this program, we have utilized the - operator to perform subtraction with decimal numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+-21.5               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.                     
+1.	Subtract <num>8.8</num> - <num>7.7</num> - <num>6.6</num> - <num>5.5</num> - <num>10.5</num> in a print statement.               
+
+
+<internal/>

@@ -1,0 +1,42 @@
+<lid>1672485593757</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 4/10                     
+                     
+Display Subjects Mark with a message!            
+                        
+The text and the number should be on separate lines.            
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text and integer numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+70                                 
+80                                 
+These are my subject marks                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <num>70</num>                                 
+1.	Print <num>80</num>                                 
+1.	Print <dq>These are my subject marks</dq>                        
+
+
+<internal/>

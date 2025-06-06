@@ -1,0 +1,35 @@
+<lid>1680755578984</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 7/10         
+         
+Place a comma between the text and integers.         
+
+
+<explanation/>
+
+
+In this program, we have used the print statements to print the string and integer values to the console, along with a comma between them.         
+
+
+<exerciseResult/>
+
+
+Output:         
+Hello,10,20         
+
+
+<steps/>
+
+
+1.  Print Hello, 10, 20 with commas between them.         
+
+
+<internal/>

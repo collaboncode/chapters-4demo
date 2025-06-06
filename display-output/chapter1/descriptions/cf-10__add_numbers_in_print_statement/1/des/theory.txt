@@ -1,0 +1,20 @@
+<lid>1689149697297</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Till now, we have added integer numbers in print statement.   
+   
+And, floating point numbers in print statement. But in separate programs.   
+   
+Can we add integer numbers and floating point numbers in print statement as well?   
+   
+Let's explore !   
+
+
+<internal/>

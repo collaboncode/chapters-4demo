@@ -1,0 +1,46 @@
+<lid>1672485602706</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 6/7                     
+                     
+Common difference 2.2!                     
+                     
+Print the sequence of decimal numbers on separate lines.                        
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+1.2                                 
+3.4                                 
+5.6                                 
+7.8                                 
+9.10                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <num>1.2</num>                                 
+1.	Print <num>3.4</num>                                 
+1.	Print <num>5.6</num>                                 
+1.	Print <num>7.8</num>                                 
+1.	Print <num>9.10</num>                        
+
+
+<internal/>

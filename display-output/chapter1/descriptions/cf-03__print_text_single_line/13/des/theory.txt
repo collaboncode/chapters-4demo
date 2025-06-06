@@ -1,0 +1,22 @@
+<lid>1690041661482</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+So far, we have corrected and completed the java programs printing some text as output.         
+         
+Now, let's be part of practice exercise.         
+         
+Practice exercise is a stage wise set of many programs where at each stage we would be expected to modify program as per instructions.         
+         
+These instructions will change at each stage and we, as programmers, will modify our program as per expectations.         
+         
+Be ready guys !!         
+
+
+<internal/>

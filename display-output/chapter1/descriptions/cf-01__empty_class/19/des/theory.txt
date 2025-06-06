@@ -1,0 +1,16 @@
+<lid>1675921336561</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+So, till now we have practiced that how to create the smallest programs in java.         
+         
+In these programs, we created empty classes. Valid programs but these programs are not doing anything.      
+
+
+<internal/>

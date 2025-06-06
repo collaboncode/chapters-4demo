@@ -1,0 +1,36 @@
+<lid>1690025004229</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 6/10         
+         
+Print 20, but with no comma.         
+
+
+<explanation/>
+
+
+In this program, we have used the print statements to print the string and integer values to the console.         
+
+
+<exerciseResult/>
+
+
+Output:         
+Hello1020         
+
+
+<steps/>
+
+
+1.	Remove the predefined comma.         
+1.  Print <num>20</num>         
+
+
+<internal/>

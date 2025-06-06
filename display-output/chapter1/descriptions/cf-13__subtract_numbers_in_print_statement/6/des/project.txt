@@ -1,0 +1,36 @@
+<lid>1689152743975</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/3            
+            
+Complete the subtraction calculation.            
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement prints the result of the subtraction to the console as output.            
+
+
+<exerciseResult/>
+
+
+Output:            
+6.1            
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.            
+1.  Subtract <num>10.9</num> from <num>20</num> and then subtract <num>3</num>         
+
+
+<internal/>

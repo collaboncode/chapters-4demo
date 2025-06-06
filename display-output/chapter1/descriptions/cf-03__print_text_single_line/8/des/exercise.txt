@@ -1,0 +1,34 @@
+<lid>1672485599719</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Display the message <dq>New way of programming</dq> to the console.                     
+
+
+<explanation/>
+
+
+In this program, inside the main method, the print statement is used to print the text <dq>New way of programming</dq> to the console.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+New way of programming                        
+
+
+<steps/>
+
+
+1.  Add a semicolon at the end of the print statement.      
+1. 	Print <dq>New way of programming</dq>.                        
+
+
+<internal/>

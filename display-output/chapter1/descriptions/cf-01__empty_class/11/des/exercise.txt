@@ -1,0 +1,32 @@
+<lid>1672485597719</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Create a <ci>Teacher</ci> class in a Java file.            
+
+
+<explanation/>
+
+
+The program contains a class named <ci>Teacher</ci>.            
+
+
+<exerciseResult/>
+
+
+<ci>Teacher</ci> class has been created            
+
+
+<steps/>
+
+
+1. Create a <kw>class</kw> <ci>Teacher</ci>.            
+
+
+<internal/>

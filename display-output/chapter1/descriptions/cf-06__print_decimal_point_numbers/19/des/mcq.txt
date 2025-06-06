@@ -1,0 +1,37 @@
+<lid>1686831357074</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+10 and 10.0, both are same?         
+
+
+<options/>
+
+
+* True                     
+* False                     
+
+
+<answer/>
+
+01                     
+
+<explanation/>
+
+
+10 is integral literal whereas 10.0 is floating point literal                     
+
+
+<hint/>
+
+
+
+
+
+<internal/>

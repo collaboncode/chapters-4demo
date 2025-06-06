@@ -1,0 +1,36 @@
+<lid>1690025031507</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 9/10         
+         
+Perform addition operation within a print statement.         
+
+
+<explanation/>
+
+
+In this program, we have used the print statements to print the string and the addition of integers to the console.         
+
+
+<exerciseResult/>
+
+
+Output:         
+Hello30         
+
+
+<steps/>
+
+
+1.  Remove the predefined content after the <dq>Hello</dq>.         
+1.  Add <num>10</num> and <num>20</num> within a print statement without printing a new line.         
+
+
+<internal/>

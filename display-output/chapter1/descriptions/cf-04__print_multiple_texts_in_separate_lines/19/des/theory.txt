@@ -1,0 +1,16 @@
+<lid>1686924967572</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Till now, we have practiced java programs where we can print multiple statements.         
+         
+These multiple statements could be same or different.         
+
+
+<internal/>

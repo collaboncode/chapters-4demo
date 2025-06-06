@@ -1,0 +1,26 @@
+<lid>1672485593741</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of creating an empty <smi>main</smi> method within the <ci>Vehicle</ci> class.            
+
+
+<explanation/>
+
+
+In this program, the class has a main method.            
+
+
+<exampleResult/>
+
+
+Output will show nothing            
+
+
+<internal/>

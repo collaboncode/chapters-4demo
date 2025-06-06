@@ -1,0 +1,39 @@
+<lid>1686796783111</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+Which statement is correct?                     
+
+
+<options/>
+
+
+* System.out.println "Hello";                     
+* System.out.println ("Hello";                     
+* System.out.println("Hello");                     
+* System.out.println "Hello");                     
+
+
+<answer/>
+
+0010                     
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

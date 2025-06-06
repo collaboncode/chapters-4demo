@@ -1,0 +1,37 @@
+<lid>1672485598763</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/16                     
+                     
+Print the same integer number on two separate lines.                        
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used twice to print two different integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+7                                 
+7                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <num>7</num> two times using separate print statements.                        
+
+
+<internal/>

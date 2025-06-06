@@ -1,0 +1,45 @@
+<lid>1686796625583</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+Is it possible to create an empty <smi>main</smi> method?         
+         
+```         
+class Validation {         
+    public static void main(String[] args) {         
+         
+    }         
+}         
+```         
+
+
+<options/>
+
+
+* True                        
+* False                        
+
+
+<answer/>
+
+10                        
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

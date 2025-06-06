@@ -1,0 +1,14 @@
+<lid>1687076807438</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Till now, similar to addition operation, we have written java programs performing subtraction operation on whole numbers in a print statement.                        
+
+
+<internal/>

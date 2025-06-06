@@ -1,0 +1,26 @@
+<lid>1687075743093</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of printing an empty line to the console.            
+
+
+<explanation/>
+
+
+In this example, the class includes a <smi>main</smi> method, inside the main method System.out.println() statement is used to print an empty line to the console.            
+
+
+<exampleResult/>
+
+
+empty line               
+
+
+<internal/>

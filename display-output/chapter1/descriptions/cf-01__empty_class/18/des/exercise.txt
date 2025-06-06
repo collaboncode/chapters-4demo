@@ -1,0 +1,32 @@
+<lid>1688128005889</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Verify that you have employed the correct keyword to run the program as intended.                  
+
+
+<explanation/>
+
+
+The program contains a class named <ci>Cycle</ci>.            
+
+
+<exerciseResult/>
+
+
+<ci>Cycle</ci> class has been created            
+
+
+<steps/>
+
+
+1.  Write <dq>CLASS</dq> in lowercase.      
+
+
+<internal/>

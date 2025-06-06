@@ -1,0 +1,44 @@
+<lid>1672485594292</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 9/10                     
+                     
+Present the given data in the following sequence: text, decimal number, integer value.                     
+                     
+78.89                     
+399                     
+"I surround myself with positive, productive people of good will and decency"                     
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text, integers, and decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+I surround myself with positive, productive people of good will and decency                                 
+78.89                                 
+399                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <dq>I surround myself with positive, productive people of good will and decency</dq>                                 
+1.	Print <num>78.89</num>                                 
+1.	Print <num>399</num>                        
+
+
+<internal/>

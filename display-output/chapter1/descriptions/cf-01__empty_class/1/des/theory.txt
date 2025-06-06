@@ -1,0 +1,18 @@
+<lid>1686907174945</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Here, we will try to understand the concept of class from real world perspective.                        
+                        
+What is class?                        
+                        
+Everything that we see around us is actually different-2 classes.                        
+
+
+<internal/>

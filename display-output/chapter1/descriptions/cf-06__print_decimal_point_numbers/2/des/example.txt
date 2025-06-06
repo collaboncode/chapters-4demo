@@ -1,0 +1,27 @@
+<lid>1672485602225</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+Here is an example demonstrating how to print a decimal value.                     
+
+
+<explanation/>
+
+
+In this program, the decimal number is printed using the print statement.         
+
+
+<exampleResult/>
+
+
+**Output:**                           
+1.25                        
+
+
+<internal/>

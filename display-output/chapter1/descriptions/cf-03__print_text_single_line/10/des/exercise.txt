@@ -1,0 +1,34 @@
+<lid>1672485598391</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+What do you think about the idea that programming is cool? If you also feel the same way, then print it.      
+
+
+<explanation/>
+
+
+In this program, inside the main method, the print statement is used to print the text to the console.            
+
+
+<exerciseResult/>
+
+
+**Output:**	                                 
+Programming is cool                        
+
+
+<steps/>
+
+
+1.  Add a semicolon at the end of the print statement.      
+1.	Write <dq>Programming is cool</dq> enclosed within double quotation marks into the print statement.      
+
+
+<internal/>

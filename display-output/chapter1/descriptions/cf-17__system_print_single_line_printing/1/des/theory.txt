@@ -1,0 +1,31 @@
+<lid>1690021757289</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Till now, we have used below print statement for printing any number or text in output:         
+         
+```         
+System.out.println();         
+```         
+         
+This statement prints the given value in output and moves the cursor to the next line.         
+         
+For printing purpose, we have one more statement:         
+         
+```         
+System.out.print();         
+```         
+         
+This statement is similar to previous statement but the difference is that it does not move the cursor to next line.         
+Cursor remains at the end of value printed in output.         
+         
+Let's explore this another variant of print statement.         
+
+
+<internal/>

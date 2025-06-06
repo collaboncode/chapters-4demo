@@ -1,0 +1,43 @@
+<lid>1672485593503</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 8/16                     
+                     
+Memory Test!                        
+                        
+Print the same number on three separate lines.                        
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used thrice to print the integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+21                                 
+21                                 
+21                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <num>21</num> three times using separate print statements.                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 3 non empty lines, not 5      

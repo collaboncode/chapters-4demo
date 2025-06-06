@@ -1,0 +1,28 @@
+<lid>1687076287980</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of empty string, represented by the double quotes ("").            
+
+
+<explanation/>
+
+
+In this example, inside the main method, the program uses the System.out.println() statement to print an empty string ("") to the console.            
+                  
+The empty double quotes instruct the program to print an empty line to the console. The result is that only a line break is displayed, without any visible content.                        
+
+
+<exampleResult/>
+
+
+empty line               
+
+
+<internal/>

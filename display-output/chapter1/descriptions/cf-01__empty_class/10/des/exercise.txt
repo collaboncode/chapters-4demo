@@ -1,0 +1,32 @@
+<lid>1672485598260</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Creating a class <ci>Employee</ci> in a Java file can be an exciting exercise.                        
+
+
+<explanation/>
+
+
+The program contains a class named <ci>Employee</ci>.            
+
+
+<exerciseResult/>
+
+
+<ci>Employee</ci> class has been created            
+
+
+<steps/>
+
+
+1. Create a <kw>class</kw> <ci>Employee</ci>.                  
+
+
+<internal/>

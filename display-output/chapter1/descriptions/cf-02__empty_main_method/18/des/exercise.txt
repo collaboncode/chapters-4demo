@@ -1,0 +1,32 @@
+<lid>1689148517192</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Complete the main method with curly braces.      
+
+
+<explanation/>
+
+
+In this program, there is a class that includes the main method.            
+
+
+<exerciseResult/>
+
+
+It will not produce any output            
+
+
+<steps/>
+
+
+1.  Include the opening and closing braces after the main method.            
+
+
+<internal/>

@@ -1,0 +1,32 @@
+<lid>1688746581845</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Verify that the Void is the right keyword.            
+
+
+<explanation/>
+
+
+In this program, there is a class named <ci>Laptop</ci> that includes the main method.               
+
+
+<exerciseResult/>
+
+
+It will not produce any output            
+
+
+<steps/>
+
+
+1.  To make <dq>Void</dq> a valid keyword, write it in lowercase.               
+
+
+<internal/>

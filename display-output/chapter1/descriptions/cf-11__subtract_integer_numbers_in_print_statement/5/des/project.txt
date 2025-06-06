@@ -1,0 +1,36 @@
+<lid>1672485595858</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/3                     
+                     
+Perform subtract operation between three integer numbers.            
+
+
+<explanation/>
+
+
+In this program, we have utilized the - operator to perform subtraction with integer numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+2               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.                     
+1.	subtract <num>1</num> from <num>5</num> and then subtract <num>2</num> in a print statement.         
+
+
+<internal/>

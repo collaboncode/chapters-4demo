@@ -1,0 +1,37 @@
+<lid>1686831201399</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+"10" and 10, both are same?                     
+
+
+<options/>
+
+
+* True                     
+* False                     
+
+
+<answer/>
+
+01                     
+
+<explanation/>
+
+
+Any thing between double quotes is considered as text.                     
+
+
+<hint/>
+
+
+
+
+
+<internal/>

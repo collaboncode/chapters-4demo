@@ -1,0 +1,39 @@
+<lid>1672485594160</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/6                     
+                     
+Congratulation!                        
+                        
+Display that this is your first Java program.                        
+
+
+<explanation/>
+
+
+In this program, inside the main method, the print statement is used to print the text to the console.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+My first java program                        
+
+
+<steps/>
+
+
+1.  Add a semicolon at the end of the print statement.      
+1.  Write 'Println' in lowercase.      
+1.	Write <dq>My first java program</dq> enclosed within double quotation marks into the print statement.      
+
+
+<internal/>

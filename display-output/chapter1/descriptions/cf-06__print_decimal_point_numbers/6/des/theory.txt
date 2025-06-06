@@ -1,0 +1,14 @@
+<lid>1690092002506</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Let's practice few more programs printing floating point numbers.         
+
+
+<internal/>

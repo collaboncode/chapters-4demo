@@ -1,0 +1,20 @@
+<lid>1690041100201</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+When we declare main method in a java class, we can execute that java class.         
+         
+Bt execute we mean that all the code inside the main method gets executed.         
+         
+As of now, for simplicity, we are keeping main method as empty.         
+         
+It also shows that, yes, it is possible to keep main method empty.         
+
+
+<internal/>

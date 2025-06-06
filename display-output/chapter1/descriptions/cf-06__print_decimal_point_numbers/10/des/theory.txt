@@ -1,0 +1,14 @@
+<lid>1687076588550</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Similar to whole numbers, we can also print floating point numbers in multiple statements.                        
+
+
+<internal/>

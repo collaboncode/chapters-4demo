@@ -1,0 +1,42 @@
+<lid>1672485595541</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/10                     
+                     
+Combination!!                        
+                        
+It is a combination of previous practice!                        
+Guess how?                        
+We can print text and numbers in a single Java program.                        
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text and integer number.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+My age is:                                 
+17                        
+
+
+<steps/>
+
+
+1.  Use 'println' instead of 'print' to print on a new line after the text.      
+1.	Print <dq>My age is:</dq>                                 
+1.	Print <num>17</num>                        
+
+
+<internal/>

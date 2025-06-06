@@ -1,0 +1,36 @@
+<lid>1672485601847</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/3                     
+                     
+2 * 3 * 4 equals....?               
+
+
+<explanation/>
+
+
+In this program, we have utilized the * operator to perform multiplication with integer numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+24               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.                     
+1.	Multiply <num>2</num> * <num>3</num> * <num>4</num> in a print statement.               
+
+
+<internal/>

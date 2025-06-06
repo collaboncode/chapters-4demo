@@ -1,0 +1,14 @@
+<lid>1690040659350</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+We have declared java classes in empty java programs.         
+
+
+<internal/>

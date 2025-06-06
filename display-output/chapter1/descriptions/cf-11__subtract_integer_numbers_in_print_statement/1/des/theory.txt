@@ -1,0 +1,18 @@
+<lid>1686925527478</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Similar to addition operator, we have another operator named as subtraction operator (-)         
+         
+Can we subtract the whole numbers using this subtraction operator?         
+         
+Let's find out.         
+
+
+<internal/>

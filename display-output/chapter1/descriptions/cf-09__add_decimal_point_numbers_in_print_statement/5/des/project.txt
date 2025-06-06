@@ -1,0 +1,40 @@
+<lid>1672485596865</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/3                     
+                     
+Seek out decimal numbers!                     
+                     
+<dq>There are three parallel railway tracks. The first track stretched for 1.2 miles, while the second track extended for 3.6 miles. As the trains departed simultaneously, one from each track, they raced towards their destination at a speed of 2.4 miles per hour.</dq>               
+                     
+Display the result of adding three decimal numbers using a print statement.               
+
+
+<explanation/>
+
+
+In this program, we have utilized the + operator to perform addition with decimal numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+7.2               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.                     
+1.	Add <num>1.2</num>, <num>2.4</num>, and <num>3.6</num> in a print statement.               
+
+
+<internal/>

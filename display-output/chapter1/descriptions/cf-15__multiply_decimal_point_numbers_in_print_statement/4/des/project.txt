@@ -1,0 +1,36 @@
+<lid>1672485598213</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/4               
+                  
+The product of four decimal numbers.               
+
+
+<explanation/>
+
+
+In this program, we have utilized the * operator to perform multiplication with decimal numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+17.5329               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.            
+1.	Multiply <num>1.1</num>, <num>7.7</num>, <num>0.9</num>, and <num>2.3</num> in a print statement.               
+
+
+<internal/>

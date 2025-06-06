@@ -1,0 +1,16 @@
+<lid>1690040735580</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Now, we will face few programs where we would be getting compile time errors due to incomplete programs.         
+         
+Let's complete those programs and remove the compile time errors.         
+
+
+<internal/>

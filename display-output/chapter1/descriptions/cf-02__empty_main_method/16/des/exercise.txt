@@ -1,0 +1,32 @@
+<lid>1688829180035</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Why is the main method existing independently outside the class?            
+
+
+<explanation/>
+
+
+In this program, there is a class named <ci>Ocean</ci> that includes the main method.               
+
+
+<exerciseResult/>
+
+
+It will not produce any output            
+
+
+<steps/>
+
+
+1.  Relocate the <smi>main</smi> method inside the class.               
+
+
+<internal/>

@@ -1,0 +1,36 @@
+<lid>1688749919075</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/4               
+               
+Calculate the sum of numbers from <num>1</num> to <num>4</num> and directly print the result.               
+
+
+<explanation/>
+
+
+In this program, the + operator is utilized to concatenate the numbers within a print statement.               
+
+
+<exerciseResult/>
+
+
+Output:               
+10               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.               
+1.  Add the numbers <num>1</num>, <num>2</num>, <num>3</num>, and <num>4</num>, within a print statement.               
+
+
+<internal/>

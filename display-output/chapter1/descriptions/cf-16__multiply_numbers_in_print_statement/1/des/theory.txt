@@ -1,0 +1,16 @@
+<lid>1702527679531</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Similar to add and subtract operations, can we multiply integer numbers and floating point numbers in print statement as well?   
+   
+Let's explore !   
+
+
+<internal/>

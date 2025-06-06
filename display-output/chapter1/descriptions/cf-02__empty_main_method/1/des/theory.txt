@@ -1,0 +1,18 @@
+<lid>1686923529836</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Till now, we have learned how to create smallest java programs.         
+         
+Like every home, there is an entry point in a java class from where we can start executing our program.                        
+                        
+This entry point is called <smi>main</smi> method in java program.         
+
+
+<internal/>

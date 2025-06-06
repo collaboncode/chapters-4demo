@@ -1,0 +1,29 @@
+<lid>1680755185250</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of how to print integer values on a single line to the console, respectively.               
+
+
+<explanation/>
+
+
+In this program, two <dq>System.out.print</dq> statements are used to print the integer values to the console.         
+         
+you can see output on a single line to the console, respectively. The reason is <dq>System.out.print</dq> do not include any newline, so the output is printed on the same line.         
+
+
+<exampleResult/>
+
+
+Output:               
+1020               
+
+
+<internal/>

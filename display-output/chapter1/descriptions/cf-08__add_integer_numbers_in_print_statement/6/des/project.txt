@@ -1,0 +1,40 @@
+<lid>1672485595673</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/4               
+               
+Find the numbers                     
+                     
+<dq>In a race of 10 participants, the first and second runners finished their races in 20 and 30 seconds, setting a new record.</dq>               
+                  
+Perform number addition by extracting them from the provided phrase.                     
+
+
+<explanation/>
+
+
+In this program, the + operator is utilized to concatenate the numbers within a print statement.               
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+60               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.               
+1.	Add <num>10</num>, <num>20</num>, and <num>30</num> within a print statement.               
+
+
+<internal/>

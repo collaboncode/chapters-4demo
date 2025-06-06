@@ -1,0 +1,29 @@
+<lid>1680755300743</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+The following example prints integer values to the console, ensuring spaces are included between each value.         
+
+
+<explanation/>
+
+
+In this example, we used the print statements to print the integer values to the console.         
+         
+System.out.print(" "): This line prints a space character between the integers to the console without a newline.         
+
+
+<exampleResult/>
+
+
+Output:               
+10 20               
+
+
+<internal/>

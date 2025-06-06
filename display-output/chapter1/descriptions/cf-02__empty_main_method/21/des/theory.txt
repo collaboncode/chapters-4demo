@@ -1,0 +1,16 @@
+<lid>1687075396820</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Till now, we have executed java programs having empty <smi>main</smi> method.         
+         
+This <smi>main</smi> method is not performing any functionality.         
+
+
+<internal/>

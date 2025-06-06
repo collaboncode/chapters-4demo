@@ -1,0 +1,37 @@
+<lid>1686795667632</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+<smi>main</smi> method "public static void main(String[] args)" is written outside class.                        
+
+
+<options/>
+
+
+* True                        
+* False                        
+
+
+<answer/>
+
+01                        
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

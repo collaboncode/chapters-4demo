@@ -1,0 +1,27 @@
+<lid>1672485600292</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is a demonstration of subtracting two integer numbers within a print statement.                     
+
+
+<explanation/>
+
+
+In this program, we have utilized the - operator to perform subtraction with integer numbers within a print statement.                     
+
+
+<exampleResult/>
+
+
+**Output:**                           
+1                        
+
+
+<internal/>

@@ -1,0 +1,36 @@
+<lid>1689153076029</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/4            
+            
+Calculate the value obtained by multiplying integer numbers by a decimal number.            
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement prints the result of the multiplication to the console as output.            
+
+
+<exerciseResult/>
+
+
+Output:            
+28.8            
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.            
+1.  Perform multiplication operation within a print statement using the numbers <num>2</num>, <num>3.6</num>, and <num>4</num>            
+
+
+<internal/>

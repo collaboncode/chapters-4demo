@@ -1,0 +1,36 @@
+<lid>1689152712863</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/3            
+            
+Execute the subtraction operation.            
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement prints the result of the subtraction to the console as output.            
+
+
+<exerciseResult/>
+
+
+Output:            
+8.05            
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.            
+1.  Subtract <num>10</num> from <num>20.55</num> and then subtract <num>2.5</num>         
+
+
+<internal/>

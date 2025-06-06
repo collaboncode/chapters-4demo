@@ -1,0 +1,32 @@
+<lid>1688127884592</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Include the opening curly brace.            
+
+
+<explanation/>
+
+
+The program contains a class named <ci>Elephant</ci>.            
+
+
+<exerciseResult/>
+
+
+<ci>Elephant</ci> class has been created            
+
+
+<steps/>
+
+
+1.  Place the opening curly brace after the class declaration.               
+
+
+<internal/>

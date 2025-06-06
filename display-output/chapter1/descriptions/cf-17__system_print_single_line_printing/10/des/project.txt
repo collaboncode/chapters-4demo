@@ -1,0 +1,35 @@
+<lid>1690024720422</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 5/10         
+         
+Separate them by using a comma in between.         
+
+
+<explanation/>
+
+
+In this program, we have used the print statements to print the string and integer value to the console, along with a comma between them.         
+
+
+<exerciseResult/>
+
+
+Output:         
+Hello,10         
+
+
+<steps/>
+
+
+1.  Add comma between the <dq>Hello</dq> and <num>10</num> using print statement.         
+
+
+<internal/>

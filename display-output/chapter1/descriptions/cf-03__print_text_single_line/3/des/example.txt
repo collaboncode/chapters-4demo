@@ -1,0 +1,29 @@
+<lid>1672485597704</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of how to print text using the print statement.            
+
+
+<explanation/>
+
+
+The System.out.println() statement, often known as a print statement, allows us to display the exact content specified within double quotes (" ") in the output.            
+            
+In this program, the class  has a main method. Within the main method, print statement is used to print the text to the console.            
+
+
+<exampleResult/>
+
+
+**Output:**                           
+Welcome to Java                        
+
+
+<internal/>

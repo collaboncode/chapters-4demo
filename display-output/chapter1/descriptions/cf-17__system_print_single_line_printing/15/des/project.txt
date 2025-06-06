@@ -1,0 +1,35 @@
+<lid>1680755923950</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 10/10         
+         
+Place a comma before the addition.         
+
+
+<explanation/>
+
+
+In this program, we have used the print statements to print the string and integer values to the console, along with a comma between them.         
+
+
+<exerciseResult/>
+
+
+Output:               
+Hello,30         
+
+
+<steps/>
+
+
+1.   Add a comma between Hello and 30 without printing a new line.         
+
+
+<internal/>

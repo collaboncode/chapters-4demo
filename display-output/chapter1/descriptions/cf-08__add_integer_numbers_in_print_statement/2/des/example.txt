@@ -1,0 +1,27 @@
+<lid>1672485596493</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+In this example, we showcase how to perform addition of two integer numbers in a print statement.            
+
+
+<explanation/>
+
+
+In this program, we have utilized the + operator to perform addition with integer numbers within a print statement.                     
+
+
+<exampleResult/>
+
+
+**Output:**                           
+3                        
+
+
+<internal/>

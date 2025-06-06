@@ -1,0 +1,35 @@
+<lid>1672485598620</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Display excellent recommendation: <dq>Learning gives satisfaction</dq>.            
+
+
+<explanation/>
+
+
+In this program, inside the main method, the print statement is used to print the text to the console.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Learning gives satisfaction                        
+
+
+<steps/>
+
+
+1.  Write 'Out' in lowercase.      
+1.  Add a semicolon at the end of the print statement.      
+1.	Write <dq>Learning gives satisfaction</dq> enclosed within double quotation marks into the print statement.      
+
+
+<internal/>

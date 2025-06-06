@@ -1,0 +1,38 @@
+<lid>1672485594781</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 8/14                     
+                     
+Print a few Prime Factorization Theorems names in main method.                        
+
+
+<explanation/>
+
+
+In this program, we have used the separate print statements to print the text on different lines.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Sieve of Eratosthenes                                 
+Wilson's Theorem         
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.  Print <dq>Sieve of Eratosthenes</dq>                     
+1.  Print <dq>Wilson's Theorem</dq>         
+
+
+<internal/>

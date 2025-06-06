@@ -15,7 +15,7 @@ version = '0.0.1'
 sourceSets {
     main {
         java {
-            srcDirs = ['src-code']
+            srcDirs = ['src-code', 'code']
         }
     }
 }

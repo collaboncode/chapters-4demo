@@ -1,0 +1,36 @@
+<lid>1689153000839</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/4            
+            
+Perform the multiplication operation between integer and decimal number.            
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement prints the result of the multiplication to the console as output.            
+
+
+<exerciseResult/>
+
+
+Output:            
+7.0            
+
+
+<steps/>
+
+
+1.	Write a main method within the class.            
+1.  Perform multiplication operation within a print statement using the numbers <num>2</num> and <num>3.5</num>            
+
+
+<internal/>

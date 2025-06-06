@@ -1,0 +1,43 @@
+<lid>1672485597657</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 13/16                     
+                     
+Print <num>5</num>, <num>10</num>, and <num>15</num> on separate lines.                        
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used thrice to print three different integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+5                                 
+10                                 
+15                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <num>5</num>                                 
+1.	Print <num>10</num>                                 
+1.	Print <num>15</num>                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 3 non empty lines, not 5      

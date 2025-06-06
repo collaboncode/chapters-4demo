@@ -1,0 +1,43 @@
+<lid>1672485596100</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 12/16                     
+                     
+Print the first three numbers on separate lines.                        
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used thrice to print three different integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+1                                 
+2                                 
+3                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <num>1</num>                                 
+1.	Print <num>2</num>                                 
+1.	Print <num>3</num>                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 3 non empty lines, not 5      

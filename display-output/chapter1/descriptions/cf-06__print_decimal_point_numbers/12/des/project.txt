@@ -1,0 +1,38 @@
+<lid>1672485600823</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/7                     
+                     
+Display decimal numbers on two distinct lines.                     
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+0.789456                                 
+12345.52                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <num>0.789456</num>                                 
+1.	Print <num>12345.52</num>                        
+
+
+<internal/>

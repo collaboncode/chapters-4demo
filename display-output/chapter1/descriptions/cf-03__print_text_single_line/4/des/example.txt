@@ -1,0 +1,27 @@
+<lid>1672485602210</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+Another guide on how to print text in the <smi>main</smi> method.            
+
+
+<explanation/>
+
+
+You can use the System.out.println() statement to print text to the console screen.            
+
+
+<exampleResult/>
+
+
+**Output:**                           
+Learning java is fun                        
+
+
+<internal/>

@@ -1,0 +1,22 @@
+<lid>1687075812121</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+In java programs, we can write empty print statements as well.                        
+                        
+For example,         
+         
+```         
+System.out.println();         
+```         
+                        
+This statement will print nothing. But you will notice that cursor has moved to next line.                        
+
+
+<internal/>

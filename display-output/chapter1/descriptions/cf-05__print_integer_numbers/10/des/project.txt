@@ -1,0 +1,40 @@
+<lid>1672485596881</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/16                     
+                     
+If you remember the previous practice, print the same integer number on two separate lines.                        
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used twice to print two different integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+10                                 
+10                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <num>10</num> two times using separate print statements.                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 2 non empty lines, not 5      

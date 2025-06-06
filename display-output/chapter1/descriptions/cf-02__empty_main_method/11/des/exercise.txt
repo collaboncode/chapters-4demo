@@ -1,0 +1,36 @@
+<lid>1688746471626</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Fix the capitalization.               
+               
+Double-check the correctness of the Public keyword.               
+
+
+<explanation/>
+
+
+The <kw>public</kw> keyword indicates that the main method can be called by the JVM to start the execution of the program.               
+               
+In this program, there is a class named <ci>Hospital</ci> that includes the main method.            
+
+
+<exerciseResult/>
+
+
+It will not produce any output            
+
+
+<steps/>
+
+
+1.  To make <dq>Public</dq> a valid keyword, write it in lowercase.               
+
+
+<internal/>

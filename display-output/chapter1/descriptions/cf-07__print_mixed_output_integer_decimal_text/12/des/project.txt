@@ -1,0 +1,40 @@
+<lid>1672485595238</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 7/10                     
+                     
+PI's numeric representation.                     
+                     
+Print the value of PI with some text; the text and the number should be on separate lines.            
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text and decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+3.14                                 
+is the PI value                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <num>3.14</num>                                 
+1.	Print <dq>is the PI value</dq>                        
+
+
+<internal/>

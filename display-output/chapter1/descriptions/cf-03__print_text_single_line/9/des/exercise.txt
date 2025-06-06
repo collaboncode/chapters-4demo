@@ -1,0 +1,34 @@
+<lid>1672485594447</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Let's say hello to the world.            
+
+
+<explanation/>
+
+
+In this program, inside the main method, the print statement is used to print the text to the console.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Hello World                        
+
+
+<steps/>
+
+
+1.  Add a semicolon at the end of the print statement.      
+1.  Write <dq>Hello World</dq> within the print statement.            
+
+
+<internal/>

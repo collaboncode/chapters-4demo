@@ -1,0 +1,44 @@
+<lid>1672485597583</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/16                     
+                     
+Memory Test!                        
+                        
+As a memory test, print the same integer number on two separate lines.                        
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used twice to print two different integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+100                                 
+100                        
+
+
+<steps/>
+
+
+1.  Correct 'system' by capitalizing its first letter with an 'S'.      
+1.  Write 'Out' and 'Println' in lowercase.      
+1.  Add a semicolon at the end of the print statements.      
+1.	Print <num>100</num> two times using separate print statements.                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 2 non empty lines, not 5      

@@ -1,0 +1,32 @@
+<lid>1688746515366</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Make certain the Static is the right keyword.            
+
+
+<explanation/>
+
+
+In this program, there is a class named <ci>Boy</ci> that includes the main method.               
+
+
+<exerciseResult/>
+
+
+It will not produce any output            
+
+
+<steps/>
+
+
+1.  To make <dq>Static</dq> a valid keyword, write it in lowercase.               
+
+
+<internal/>

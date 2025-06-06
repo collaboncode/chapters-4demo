@@ -1,0 +1,36 @@
+<lid>1672485601513</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/6                     
+                     
+Demonstrates the phrase <dq>Programming results in structured thinking</dq>.                        
+
+
+<explanation/>
+
+
+In this program, inside the main method, the print statement is used to print the text to the console.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Programming results in structured thinking                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statement.                     
+1.	Write <dq>Programming results in structured thinking</dq> within the print statement.            
+
+
+<internal/>

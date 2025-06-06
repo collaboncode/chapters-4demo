@@ -1,0 +1,16 @@
+<lid>1690041229970</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+We have seen few java programs where main method has been declared inside java class.         
+         
+These java classes are executable now.         
+
+
+<internal/>

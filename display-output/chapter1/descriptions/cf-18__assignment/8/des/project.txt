@@ -1,0 +1,40 @@
+<lid>1690025827303</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Part 7/9         
+         
+Print an empty line.         
+
+
+<explanation/>
+
+
+In this program, within the main method, we employed individual print statements to display text on the console.         
+
+
+<exerciseResult/>
+
+
+Output:         
+Till now, we have written java programs doing following:         
+1. class declarations in a java program.         
+2. main method declaration inside a class.         
+3. printing texts and numbers in output.         
+4. printing addition, subtraction and multiplication of numbers.         
+5. print statement without next line method.         
+
+
+<steps/>
+
+
+1.  Print an empty line.         
+
+
+<internal/>

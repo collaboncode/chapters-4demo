@@ -1,0 +1,39 @@
+<lid>1690027359066</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+Which is valid print statement?         
+
+
+<options/>
+
+
+* system.out.print();         
+* System.oUt.print();         
+* System.out.Print();         
+* System.out.print();         
+
+
+<answer/>
+
+0001         
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

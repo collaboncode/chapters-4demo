@@ -1,0 +1,16 @@
+<lid>1702527669153</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Similar to add operation, can we subtract integer numbers and floating point numbers in print statement as well?   
+   
+Let's explore !   
+
+
+<internal/>

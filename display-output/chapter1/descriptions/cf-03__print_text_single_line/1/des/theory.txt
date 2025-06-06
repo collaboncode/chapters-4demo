@@ -1,0 +1,20 @@
+<lid>1686924283492</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Till now, we have written empty java programs.         
+         
+In addition, we have also written the java programs having entry point, i.e. <smi>main</smi> method.         
+         
+But, this <smi>main</smi> method was empty till now.         
+                        
+Now, let's learn how to print a simple text in java.                        
+
+
+<internal/>

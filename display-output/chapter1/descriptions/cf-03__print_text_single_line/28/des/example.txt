@@ -1,0 +1,26 @@
+<lid>1687075890899</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This program demonstrates how to print a space character to the console.                        
+
+
+<explanation/>
+
+
+In this program, inside the main method, the program uses the System.out.println() statement to print a single space character (" ") to the console.            
+
+
+<exampleResult/>
+
+
+empty line               
+
+
+<internal/>

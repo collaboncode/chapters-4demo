@@ -1,0 +1,45 @@
+<lid>1686796540384</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+Is it possible to create an empty class?         
+         
+For example,         
+         
+```         
+class Validation {         
+         
+}         
+```         
+
+
+<options/>
+
+
+* Yes                     
+* No                     
+
+
+<answer/>
+
+10                     
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

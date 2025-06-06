@@ -1,0 +1,20 @@
+<lid>1690040986479</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Syntax of class declaration         
+         
+```         
+class Table {         
+         
+}         
+```         
+
+
+<internal/>

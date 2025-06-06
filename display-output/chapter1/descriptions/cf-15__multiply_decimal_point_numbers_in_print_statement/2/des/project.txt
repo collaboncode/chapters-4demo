@@ -1,0 +1,35 @@
+<lid>1672485597758</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/4               
+                  
+Multiply two decimal numbers within the print statement.                     
+
+
+<explanation/>
+
+
+In this program, we have utilized the * operator to perform multiplication with decimal numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+2.0                        
+
+
+<steps/>
+
+
+1.	Multiply <num>1.0</num> and <num>2.0</num> in a print statement.                        
+
+
+<internal/>

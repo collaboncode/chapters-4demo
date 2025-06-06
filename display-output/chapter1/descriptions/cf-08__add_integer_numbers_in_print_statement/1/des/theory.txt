@@ -1,0 +1,22 @@
+<lid>1686925382027</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+So guys, enough of simple java programs !!         
+         
+Let's move to one level up now.         
+         
+We all are comfortable with addition operator. It adds two numbers.                        
+                        
+Can we use this addition operator to add two whole numbers in print statement?                        
+                        
+Instead of printing a number, let's try to print the addition result of two numbers.                        
+
+
+<internal/>

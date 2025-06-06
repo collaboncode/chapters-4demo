@@ -1,0 +1,30 @@
+<lid>1672485594750</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+Here is an example of how to create an empty <smi>main</smi> method in a class.                     
+                     
+Execute the source code. At present, nothing will be displayed as main is empty.                        
+
+
+<explanation/>
+
+
+The <smi>main</smi> method is the entry point of a program. It is the method that is executed when the program is run.               
+               
+Without <smi>main</smi> method program will not run, we will get run-time error because `r fmt_value_with_quotes("jvm(java virtual machine)")` search for <smi>main</smi> method. We did not perform any single operation in this <smi>main</smi> method that's why it is empty <smi>main</smi> method.                        
+
+
+<exampleResult/>
+
+
+Output will show nothing            
+
+
+<internal/>

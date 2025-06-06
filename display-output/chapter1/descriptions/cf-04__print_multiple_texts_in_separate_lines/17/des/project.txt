@@ -1,0 +1,42 @@
+<lid>1672485600176</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 13/14                     
+                     
+Hey CG! Please tell me the benefits of learning and practicing coding skills.                  
+                  
+OK! I tell you about three benefits, but you have to print them.                        
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text on different lines.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Coding can improve career prospects.                                 
+It can enhance problem-solving skills.                                 
+Coding can help you understand technology.                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.	Print <dq>Coding can improve career prospects.</dq>.                        
+1.	Print <dq>It can enhance problem-solving skills.</dq>                        
+1.	Print <dq>Coding can help you understand technology.</dq>                        
+
+
+<internal/>

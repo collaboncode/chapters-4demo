@@ -1,0 +1,47 @@
+<lid>1686907075769</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+What is the output of bellow program?         
+         
+```         
+class Validation {         
+    public static void main(String[] args) {         
+        System.out.println(6 * 8);         
+    }         
+}         
+```         
+
+
+<options/>
+
+
+* 6                     
+* 8                     
+* 48                     
+* Compile time error                     
+
+
+<answer/>
+
+0010                     
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

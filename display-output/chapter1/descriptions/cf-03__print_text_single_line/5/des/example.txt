@@ -1,0 +1,27 @@
+<lid>1672485594866</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of printing <dq>Programming is the backbone</dq> to the console.            
+
+
+<explanation/>
+
+
+In this program, the System.out.println() statement is used to print the text to the console.            
+
+
+<exampleResult/>
+
+
+**Output:**                           
+Programming is backbone                        
+
+
+<internal/>

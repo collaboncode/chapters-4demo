@@ -1,0 +1,16 @@
+<lid>1687089268357</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+We have another operator, multiply operator.         
+         
+Likewise, with addition and subtraction, can we multiply whole numbers in a print statement?         
+
+
+<internal/>

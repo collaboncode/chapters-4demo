@@ -1,0 +1,36 @@
+<lid>1672485600037</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 6/6                     
+                     
+Print <dq>My dear friend, clear your mind of can't</dq>         
+
+
+<explanation/>
+
+
+In this program, inside the main method, the print statement is used to print the text to the console.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+My dear friend, clear your mind of can't                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statement.                     
+1.  Write <dq>My dear friend, clear your mind of can't</dq> within the print statement.            
+
+
+<internal/>

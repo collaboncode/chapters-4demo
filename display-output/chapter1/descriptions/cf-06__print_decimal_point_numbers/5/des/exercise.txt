@@ -1,0 +1,36 @@
+<lid>1672485601311</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Half value!                     
+                     
+Print the half of the integer value <num>1</num>.                  
+
+
+<explanation/>
+
+
+In this program, the decimal number is printed using the print statement.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+0.5                        
+
+
+<steps/>
+
+
+1.  Add a semicolon at the end of the print statement.      
+1.	Write <num>0.5</num> within the print statement.      
+
+
+<internal/>

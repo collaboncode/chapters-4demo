@@ -1,0 +1,40 @@
+<lid>1686906390779</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+Which <smi>main</smi> method declaration is correct?                        
+
+
+<options/>
+
+
+* Public static void main(String[] args)                        
+* public Static void main(String[] args)                        
+* public static Void main(String[] args)                        
+* public static void main(String[] args)                        
+* public static void main(string[] args)                        
+
+
+<answer/>
+
+00010                        
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

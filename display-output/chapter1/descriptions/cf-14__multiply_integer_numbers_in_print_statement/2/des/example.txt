@@ -1,0 +1,27 @@
+<lid>1672485597109</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of how to multiply two integer numbers within a print statement.                     
+
+
+<explanation/>
+
+
+In this program, we have utilized the * operator to perform multiplication with integer numbers within a print statement.                     
+
+
+<exampleResult/>
+
+
+**Output:**                           
+6                        
+
+
+<internal/>

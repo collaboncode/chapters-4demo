@@ -1,0 +1,41 @@
+<lid>1672485597774</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 7/16                     
+                     
+Output the numbers 10 and 20 on different lines.                     
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used twice to print two different integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+10                                 
+20                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <num>10</num>                                 
+1.	Print <num>20</num>                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 2 non empty lines, not 5      

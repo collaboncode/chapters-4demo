@@ -1,0 +1,16 @@
+<lid>1690092887082</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Yes, we can multiply whole numbers and floating point numbers as well.         
+         
+Let's practice the same in upcoming programs.         
+
+
+<internal/>

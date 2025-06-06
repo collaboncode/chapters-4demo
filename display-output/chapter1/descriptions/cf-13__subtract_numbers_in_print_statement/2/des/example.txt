@@ -1,0 +1,30 @@
+<lid>1689152615977</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This example includes both the subtraction of a floating-point number from an integer and the subtraction of an integer from a floating-point number.            
+
+
+<explanation/>
+
+
+In this program, the first print statement, it represents the subtraction of a floating-point number from an integer.            
+            
+The second print statement, it represents the subtraction of an integer from a floating-point number.            
+
+
+<exampleResult/>
+
+
+Output:            
+4.5            
+5.199999999999999            
+
+
+<internal/>

@@ -1,0 +1,21 @@
+<lid>1689153323682</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Till now, we have created:            
+- smallest java programs having empty classes            
+- java programs having entry point i.e. main method, although empty            
+- java programs printing simple texts, texts in separate multiple lines            
+- java programs printing whole numbers and floating point numbers            
+- java programs performing addition, subtraction and multiplication of whole numbers            
+- java programs performing addition, subtraction and multiplication of floating point numbers            
+- java programs performing addition, subtraction and multiplication of whole numbers and floating point numbers together            
+
+
+<internal/>

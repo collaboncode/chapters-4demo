@@ -1,0 +1,41 @@
+<lid>1672485599672</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/10                     
+                     
+John, there are two questions for you. Please write down the answers.               
+                     
+Q1: Are you loving coding?                     
+Q2: How many marks out of 10 would you give to your coding skills?                     
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text and decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+I am loving coding                                 
+10                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.            
+1.	Print <dq>I am loving coding</dq>                                 
+1.	Print <num>10</num>                        
+
+
+<internal/>

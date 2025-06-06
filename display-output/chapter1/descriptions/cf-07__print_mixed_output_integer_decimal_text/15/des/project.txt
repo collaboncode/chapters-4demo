@@ -1,0 +1,42 @@
+<lid>1672485597432</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 10/10                     
+                     
+Print text, integer and decimal numbers on separate lines.                        
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text, integers, and decimal numbers.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+If you think you are too small to be effective, you have never been in the dark with a mosquito                                 
+1234                                 
+Every now and then I like to do as I am told, just to confuse people                                 
+0.59                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <dq>If you think you are too small to be effective, you have never been in the dark with a mosquito</dq>                                 
+1.	Print <num>1234</num>                                 
+1.	Print <dq>Every now and then I like to do as I am told, just to confuse people</dq>                                 
+1.	Print <num>0.59</num>                        
+
+
+<internal/>

@@ -1,0 +1,37 @@
+<lid>1686906333631</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+class is a keyword in java?         
+
+
+<options/>
+
+
+* Yes                     
+* No                     
+
+
+<answer/>
+
+10                     
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

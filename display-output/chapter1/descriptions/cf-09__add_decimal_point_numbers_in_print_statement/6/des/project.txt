@@ -1,0 +1,36 @@
+<lid>1672485593857</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 3/3                     
+                     
+The total when we combine four decimal numbers.               
+
+
+<explanation/>
+
+
+In this program, we have utilized the + operator to perform addition with decimal numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+11.0               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.                     
+1.	Add <num>1.1</num>, <num>2.2</num>, <num>3.3</num>, and <num>4.4</num> in a print statement.               
+
+
+<internal/>

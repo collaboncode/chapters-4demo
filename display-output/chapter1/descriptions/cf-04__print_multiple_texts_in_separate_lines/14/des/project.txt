@@ -1,0 +1,38 @@
+<lid>1672485595658</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 10/14                     
+                     
+Display the text <dq>Coding is amazing</dq> three times.            
+
+
+<explanation/>
+
+
+In this program, we used separate print statements to print the text on different lines.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Coding is amazing                                 
+Coding is amazing                                 
+Coding is amazing                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.	Print <dq>Coding is amazing</dq> three times using separate print statements.                        
+
+
+<internal/>

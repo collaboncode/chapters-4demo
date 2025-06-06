@@ -1,0 +1,38 @@
+<lid>1672485600107</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/14                     
+                     
+I believe that <dq>Programming is the backbone</dq>. If you also think then display it twice.                        
+
+
+<explanation/>
+
+
+In this program, we used the separate print statements to print the same text on two different lines.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Programming is backbone                                 
+Programming is backbone                        
+
+
+<steps/>
+
+
+1.  Correct 'system' by capitalizing its first letter with an 'S'.      
+1.  Write 'Out' and 'Println' in lowercase.      
+1.	Print <dq>Programming is backbone</dq> twice using separate print statements.                        
+
+
+<internal/>

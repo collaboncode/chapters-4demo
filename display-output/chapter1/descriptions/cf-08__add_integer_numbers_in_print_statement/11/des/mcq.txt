@@ -1,0 +1,47 @@
+<lid>1686907045678</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<mcq/>
+
+
+What is the output of below program?         
+         
+```         
+class Validation {         
+    public static void main(String[] args) {         
+        System.out.Println(10 + 40);         
+    }         
+}         
+```         
+
+
+<options/>
+
+
+* 30                     
+* 40                     
+* 50                     
+* Compile time error                     
+
+
+<answer/>
+
+0001                     
+
+<explanation/>
+
+
+
+
+
+<hint/>
+
+
+
+
+
+<internal/>

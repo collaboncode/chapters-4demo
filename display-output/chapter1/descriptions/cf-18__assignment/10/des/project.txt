@@ -1,0 +1,43 @@
+<lid>1687093300564</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Part 9/9         
+                     
+Display all things learned so far...         
+
+
+<explanation/>
+
+
+In this program, the System.out.println() statement adds a new line after each message, while System.out.print() does not add a new line, allowing subsequent output to appear on the same line.         
+
+
+<exerciseResult/>
+
+
+Output:                     
+Till now, we have written java programs doing following:         
+1. class declarations in a java program.         
+2. main method declaration inside a class.         
+3. printing texts and numbers in output.         
+4. printing addition, subtraction and multiplication of numbers.         
+5. print statement without next line method.         
+         
+You will be surprised that we just coded more than 150 java programs. Wow !!         
+Happy coding, guys !!         
+
+
+<steps/>
+
+
+1.  Print text <dq>Happy coding, guys !!</dq> followed by printing a new line.         
+
+
+<internal/>

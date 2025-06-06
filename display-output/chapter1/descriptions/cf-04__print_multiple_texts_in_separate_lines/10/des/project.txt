@@ -1,0 +1,38 @@
+<lid>1672485601700</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 6/14                     
+                     
+Write these two sentences to inspire and encourage a positive mindset.                        
+
+
+<explanation/>
+
+
+In this program, we have used the separate print statements to print the text on different lines.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Miracles happen to those who believe in them                                 
+One small positive thought can change your whole day                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.	Print <dq>Miracles happen to those who believe in them</dq>                        
+1.	Print <dq>One small positive thought can change your whole day</dq>                        
+
+
+<internal/>

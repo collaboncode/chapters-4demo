@@ -1,0 +1,16 @@
+<lid>1690092660980</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Yes, we can subtract whole numbers and floating point numbers.         
+         
+Let's practice the same.         
+
+
+<internal/>

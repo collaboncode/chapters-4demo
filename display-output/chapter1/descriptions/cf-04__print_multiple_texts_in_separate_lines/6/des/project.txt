@@ -1,0 +1,37 @@
+<lid>1672485601641</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 2/14                     
+                     
+Let's say hello to the world again, but this time, twice.         
+
+
+<explanation/>
+
+
+In this program, we used the separate print statements to print the same text on two different lines.                        
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Hello World                                 
+Hello World                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.	Print <dq>Hello World</dq> twice using separate print statements.                        
+
+
+<internal/>

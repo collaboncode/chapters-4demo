@@ -1,0 +1,18 @@
+<lid>1686924544544</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Syntax of print statement in java.                        
+         
+```         
+System.out.println("hello java");         
+```         
+
+
+<internal/>

@@ -1,0 +1,14 @@
+<lid>1690041648449</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+In last few java programs, we observed that to print any text we are writing that text inside double quotes in print statement.         
+
+
+<internal/>

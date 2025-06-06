@@ -1,0 +1,27 @@
+<lid>1672485593656</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of how to print an integer number within the main method.                     
+
+
+<explanation/>
+
+
+In this program, inside the main method, the print statement is used to print the integer value <num>100</num> to the console.            
+
+
+<exampleResult/>
+
+
+**Output:**                           
+100                        
+
+
+<internal/>

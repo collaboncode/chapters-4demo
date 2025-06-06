@@ -1,0 +1,18 @@
+<lid>1690024571626</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Let's practice some java programs using         
+         
+```         
+System.out.print();         
+```         
+
+
+<internal/>

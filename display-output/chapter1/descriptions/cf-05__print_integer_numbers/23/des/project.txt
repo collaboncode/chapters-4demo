@@ -1,0 +1,44 @@
+<lid>1672485592800</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 15/16                     
+                     
+Print first five even numbers on separate lines.                        
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used five times to print the different integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+0                                 
+2                                 
+4                                 
+6                                 
+8                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <num>0</num>                                 
+1.	Print <num>2</num>                                 
+1.	Print <num>4</num>                                 
+1.	Print <num>6</num>                                 
+1.	Print <num>8</num>                        
+
+
+<internal/>

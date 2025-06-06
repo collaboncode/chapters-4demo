@@ -1,0 +1,32 @@
+<lid>1688127962095</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+Hey there! It seems there's a small issue with the code.                  
+
+
+<explanation/>
+
+
+The program contains a class named <ci>Apple</ci>.            
+
+
+<exerciseResult/>
+
+
+<ci>Apple</ci> class has been created            
+
+
+<steps/>
+
+
+1.  Write <dq>Class</dq> in lowercase.      
+
+
+<internal/>

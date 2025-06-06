@@ -1,0 +1,40 @@
+<lid>1672485598997</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 14/14                     
+                     
+Display the collection of humorous and thought-provoking quotes on three different lines.                        
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text on different lines.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Whatever you do, always give 100%, unless you donating blood                                 
+If you are going through hell, just keep going                                 
+Even if you are on the right track, you will get run over if you just sit there.                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.	Print the first line <dq>Whatever you do, always give 100%, unless you donating blood</dq>                        
+1.	Print the second line <dq>If you are going through hell, just keep going</dq>                        
+1.	Print the third line <dq>Even if you are on the right track, you will get run over if you just sit there.</dq>                        
+
+
+<internal/>

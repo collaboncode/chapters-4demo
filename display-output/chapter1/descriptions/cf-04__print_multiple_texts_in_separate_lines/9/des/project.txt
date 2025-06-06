@@ -1,0 +1,40 @@
+<lid>1672485595386</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 5/14                     
+                     
+Welcome! John, why do you want to learn java?                  
+                  
+Write two valid reasons on two different lines.                        
+
+
+<explanation/>
+
+
+In this program, we have used separate print statements to print the text on different lines.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+Highly motivated to learning                                 
+Continuous learning is the key to happiness                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined text from the print statements.                     
+1.	Print <dq>Highly motivated to learning</dq>                        
+1.	Print <dq>Continuous learning is the key to happiness</dq>                        
+
+
+<internal/>

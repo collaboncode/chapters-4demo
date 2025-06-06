@@ -1,0 +1,27 @@
+<lid>1689150055359</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+In this example, an integer and a decimal number are added within a print statement.            
+
+
+<explanation/>
+
+
+In this program, in the main method, the print statement is used to output the result of the addition to the console.            
+
+
+<exampleResult/>
+
+
+Output:            
+3.1            
+
+
+<internal/>

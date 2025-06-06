@@ -1,0 +1,41 @@
+<lid>1672485601529</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 9/16                     
+                     
+Now it's easy enough for you to display numbers on separate lines.            
+
+
+<explanation/>
+
+
+In this program, within the main method, the print statement is used thrice to print the integer numbers.            
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+50                                 
+50                                 
+50                        
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statements.                     
+1.	Print <num>50</num> three times using separate print statements.                        
+
+
+<internal/>
+
+
+@ekta: Output should contain exactly 3 non empty lines, not 5      

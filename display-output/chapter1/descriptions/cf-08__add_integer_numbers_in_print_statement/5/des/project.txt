@@ -1,0 +1,37 @@
+<lid>1672485597269</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/4               
+               
+Display sum                     
+                     
+5+7=......?                     
+
+
+<explanation/>
+
+
+In this program, we have utilized the + operator to perform addition with integer numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+12                        
+
+
+<steps/>
+
+
+1.	Add <num>5</num> and <num>7</num> in a print statement.                        
+
+
+<internal/>

@@ -1,0 +1,16 @@
+<lid>1687089384417</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<theory/>
+
+
+Similar to whole numbers, can we also add floating point numbers in a print statement?         
+         
+Let's find out this as well.         
+
+
+<internal/>

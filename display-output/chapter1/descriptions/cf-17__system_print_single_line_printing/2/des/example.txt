@@ -1,0 +1,27 @@
+<lid>1680756448649</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<example/>
+
+
+This is an example of printing the integer value to the console.         
+
+
+<explanation/>
+
+
+In this example, inside the main method, the System.out.print(10) statement displays the number <num>10</num> on the console.         
+
+
+<exampleResult/>
+
+
+Output:               
+10               
+
+
+<internal/>

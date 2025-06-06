@@ -1,0 +1,35 @@
+<lid>1672485596043</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 1/3                     
+                     
+Subtract two integer numbers in a print statement.                        
+
+
+<explanation/>
+
+
+In this program, we have utilized the - operator to perform subtraction with integer numbers within a print statement.                     
+
+
+<exerciseResult/>
+
+
+**Output:**                           
+5                        
+
+
+<steps/>
+
+
+1.	Subtract <num>7</num> from <num>12</num> in a print statement.                        
+
+
+<internal/>

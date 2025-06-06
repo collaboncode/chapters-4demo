@@ -1,0 +1,38 @@
+<lid>1688749973436</lid>
+<lname></lname>
+<lurl></lurl>
+<ltitle></ltitle>
+<lcategory></lcategory>
+
+
+<exercise/>
+
+
+practice 4/4               
+               
+Addition of multiple numbers.               
+               
+Within a single print statement, there is no limitation on the number of values you can add together.               
+
+
+<explanation/>
+
+
+In this program, the + operator is utilized to concatenate the numbers within a print statement.               
+
+
+<exerciseResult/>
+
+
+Output:               
+28               
+
+
+<steps/>
+
+
+1.  Eliminate predefined content from the print statement.               
+1.  Add the numbers <num>2</num>, <num>3</num>, <num>5</num>, <num>7</num>, and <num>11</num>, within a print statement.               
+
+
+<internal/>
